@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-MyMovieMatrix is a One Stop discovery platform for Indian Movies & TV Shows. It enables discovery of Indian Content, easy Identification of personalized choice with our automated recommendation and Sources to consume it from anytime anywhere. 
+MyMovieMatrix is a One Stop discovery platform for Indian Movies & TV Shows. 
 
 == Description ==
 
