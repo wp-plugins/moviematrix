@@ -62,7 +62,7 @@ It is the entertainment quotient for your Blog and Website. Adds a great value a
 
 == Screenshots ==
 
-1. This is the screenshot of the plugin
+1. One of the slides of the plugin.
 
 == Changelog ==
 
